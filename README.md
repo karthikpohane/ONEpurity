@@ -1,6 +1,7 @@
-# Tensorflow Object Detection Walkthrough
+# ONEpurity
+<img src="https://imgur.com/a/G7Oc64k">
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
-<img src="https://i.imgur.com/H3tUyKM.png">
+<img src="https://imgur.com/rB7hMHj">
 
 ## Steps
 <br />
@@ -25,7 +26,7 @@ python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/karthikpohane/ONEpurity/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-<img src="https://i.imgur.com/8yac6Xl.png"> 
+<img src="https://imgur.com/qSsLcBi"> 
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 \TFODCourse\Tensorflow\workspace\images\train<br />
