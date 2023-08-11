@@ -1,5 +1,5 @@
 # ONEpurity
-<img src="https://imgur.com/a/G7Oc64k">
+<img src="https://imgur.com/MiZECkf">
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
 <img src="https://imgur.com/rB7hMHj">
 
