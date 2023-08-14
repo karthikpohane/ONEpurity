@@ -45,6 +45,7 @@ ONEpurity's narrative extends beyond detection, transcending into proactive aler
 
 ## Installation.
 <b>steps(if you want to clone)</b>
+<br>
 <b>Step 1.</b> Clone this repository: https://github.com/karthikpohane/ONEpurity/
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
@@ -115,7 +116,7 @@ Tensorboard will be accessible through your browser and you will be able to see 
 
 ## Authors/Contributors.
 <ul>
-    <li>Aritra Sarkar: <a href = "https://github.com/ZeltraX007"></li>
-    <li>Aditya Gope: <a href = "https://github.com/mrGope"></li>
-    <li>Apoorva Vasishtha: <a href = "https://github.com/apoorva240"></li>
+    <li>Aritra Sarkar: https://github.com/ZeltraX007</li>
+    <li>Aditya Gope: https://github.com/mrGope</li>
+    <li>Apoorva Vasishtha: https://github.com/apoorva240</li>
 </ul>
