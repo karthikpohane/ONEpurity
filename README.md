@@ -80,6 +80,7 @@ python -m ipykernel install --user --name=tfodj
 <b>Step 7.</b> Begin training process by opening.<br>2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
 <b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.
+
 ![traning testing](https://github.com/karthikpohane/ONEpurity/assets/117158132/a3de58ca-10ac-4157-875f-756b10d3be33)
 
 If not, resolve installation errors by referring to the <a href="https://github.com/karthikpohane/ONEpurity/blob/main/README.md">Error Guide.md</a> in this folder.
