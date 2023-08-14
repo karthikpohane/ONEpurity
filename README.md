@@ -1,7 +1,19 @@
-# ONEpurity
-[1] [1][<img src="https://imgur.com/KwIJJbe">](https://user-images.githubusercontent.com/72274851/218500470-ec078b99-0a50-4b06-a2df-c09e47ecc187.png) 
-
-<p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
+![gitfrontlogo](https://github.com/karthikpohane/ONEpurity/assets/117158132/ce489d55-66a0-42fc-b4fe-9b3f6989dbbb)
+#
+<p>ONEpurity is a Vehicle Pollution Detection System is an innovative solution designed to combat vehicular emissions and environmental pollution through the utilization of cutting-edge technologies, including deep learning, Convolutional Neural Networks (CNNs), TensorFlow, and the SSD MobileNet V2 architecture. This system aims to provide real-time and efficient pollution detection capabilities, merging technology with sustainability for a cleaner environment.</p>
+#Table of Contents
+<table>
+  <tr>
+    <th>Introduction</th>
+    <th>Technologies Used</th>
+    <th>Functionality</th>
+    <th>Installation</th>
+    <th>Usage</th>
+    <th>Workflow</th>
+    <th>Environmental Impact</th>
+    <th>Contributing</th>
+  </tr>
+</table>
 
 ![Screenshot 2023-08-11 134231](https://github.com/karthikpohane/ONEpurity/assets/117158132/75ddf39d-2268-4ed1-9c75-80ed3846ca6a)
 
