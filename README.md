@@ -39,8 +39,12 @@ ONEpurity's narrative extends beyond detection, transcending into proactive aler
     <li><p><b>Alert and Reporting:</b> When pollutants are detected, the system triggers alerts to relevant stakeholders, such as authorities or drivers. This supports swift corrective actions and pollution control efforts.</p></li>
 </ul>
 
+## Demo.
+
+![one (1)](https://github.com/karthikpohane/ONEpurity/assets/117158132/eab251fd-7b46-48a6-bbed-7212e91f9208)
+
 ## Installation.
-<b>steps</b>
+<b>steps(if you want to clone)</b>
 <b>Step 1.</b> Clone this repository: https://github.com/karthikpohane/ONEpurity/
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
@@ -62,7 +66,8 @@ python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/karthikpohane/ONEpurity/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-<img src="https://imgur.com/qSsLcBi"> 
+![object detection](https://github.com/karthikpohane/ONEpurity/assets/117158132/e8db912e-d231-4a66-964b-615146b3665a)
+![Screenshot 2023-08-11 134108](https://github.com/karthikpohane/ONEpurity/assets/117158132/ab27660f-f7b3-40c1-9199-470f1ffde5b7)
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 \TFODCourse\Tensorflow\workspace\images\train<br />
@@ -71,11 +76,10 @@ python -m ipykernel install --user --name=tfodj
 <b>Step 7.</b> Begin training process by opening <a href="https://github.com/karthikpohane/ONEpurity/blob/main/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
 <b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.  
-<img src="https://i.imgur.com/FSQFo16.png">
+![traning testing](https://github.com/karthikpohane/ONEpurity/assets/117158132/9386e56d-aa22-46bd-a7bd-ea8ae366ea3d)
 If not, resolve installation errors by referring to the <a href="https://github.com/karthikpohane/ONEpurity/blob/main/README.md">Error Guide.md</a> in this folder.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
-<img src="https://i.imgur.com/K0wLO57.png"> 
 <br />
 <b>Step 10.</b> You can optionally evaluate your model inside of Tensorboard. Once the model has been trained and you have run the evaluation command under Step 7. Navigate to the evaluation folder for your trained model e.g. 
 <pre> cd Tensorlfow/workspace/models/my_ssd_mobnet/eval</pre> 
@@ -83,3 +87,35 @@ and open Tensorboard with the following command
 <pre>tensorboard --logdir=. </pre>
 Tensorboard will be accessible through your browser and you will be able to see metrics including mAP - mean Average Precision, and Recall.
 <br />
+## Usage.
+<ul>
+    <li>Configure the system settings and parameters as needed.</li>
+    <li>Run the main application script: 'python main.py'</li>
+    <li>The system will begin capturing and analyzing visual data, providing real-time pollution detection results.</li>
+</ul>
+
+## Workflow.
+<ul>
+    <li>Visual data is collected from vehicle-mounted cameras or external sensors.</li>
+    <li>Preprocessing enhances the quality of the data.</li>
+    <li>The trained CNN analyzes the data to detect pollutants in real-time.</li>
+    <li>Alerts are generated for relevant stakeholders.</li>
+</ul>
+
+## Environmental Impact.
+<p>The system's precision in identifying pollutants emitted by vehicles plays a pivotal role in curbing harmful emissions. This accuracy empowers policymakers, researchers, and organizations to make informed decisions, effectively reducing the environmental footprint. By enhancing the understanding of pollution sources and patterns, the system contributes to targeted mitigation strategies and a more sustainable ecosystem. Through its real-time insights, the system not only aids in pollution control but also fosters a healthier environment, aligning with global efforts to combat climate change and preserve the planet for future generations.</p>
+
+## Contributing.
+<p>We welcome contributions from the community. To contribute, follow these steps:</p>
+<ul>
+    <li>Fork the repository.</li>
+    <li>Create a new branch for your feature or bug fix.</li>
+    <li>Make your changes and submit a pull request.</li>
+</ul>
+
+## Authors/Contributors.
+<ul>
+    <li>Aritra Sarkar: <a href = "https://github.com/ZeltraX007"></li>
+    <li>Aditya Gope: <a href = "https://github.com/mrGope"></li>
+    <li>Apoorva Vasishtha: <a href = "https://github.com/apoorva240"></li>
+</ul>
