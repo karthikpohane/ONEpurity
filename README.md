@@ -30,7 +30,17 @@ ONEpurity's narrative extends beyond detection, transcending into proactive aler
     <li>SSD MobileNet_V2</li>
 </ul>
 
-<br />
+## Functionality.
+<ul>
+    <li><p><b>Data Collection:</b> Visual data is obtained from cameras on vehicles or external sensors, capturing the surroundings as the vehicle moves.</p></li>
+    <li><p><b>Preprocessing:</b> Raw visual data is enhanced through resizing, normalization, and noise reduction to ensure quality and consistency.</p></li>
+    <li><p><b>CNN Training:</b> A diverse dataset containing pollutant scenarios trains the CNN to differentiate between different pollutants by identifying their visual characteristics.</p></li>
+    <li><p><b>Real-Time Detection:</b> Equipped with a trained CNN, the system processes incoming visual data in real-time, rapidly identifying and localizing pollutants within images or video streams.</p></li>
+    <li><p><b>Alert and Reporting:</b> When pollutants are detected, the system triggers alerts to relevant stakeholders, such as authorities or drivers. This supports swift corrective actions and pollution control efforts.</p></li>
+</ul>
+
+## Installation.
+<h1>Steps</h1>
 <b>Step 1.</b> Clone this repository: https://github.com/karthikpohane/ONEpurity/
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
