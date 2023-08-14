@@ -5,7 +5,7 @@
 ## Table of Contents
 
 <table>
-    <tr>Introduction</tr>
+    <tr><th>Introduction</th></tr>
     <tr>Technologies Used</tr>
     <tr>Functionality</tr>
     <tr>Installation</tr>
