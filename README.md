@@ -39,8 +39,8 @@ ONEpurity's narrative extends beyond detection, transcending into proactive aler
     <li><p><b>Alert and Reporting:</b> When pollutants are detected, the system triggers alerts to relevant stakeholders, such as authorities or drivers. This supports swift corrective actions and pollution control efforts.</p></li>
 </ul>
 
-## <h1>Installation.</h1>
-<h4>Steps</h4>
+## Installation.
+<b>steps</b>
 <b>Step 1.</b> Clone this repository: https://github.com/karthikpohane/ONEpurity/
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
