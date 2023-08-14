@@ -66,18 +66,22 @@ pip install ipykernel
 python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
-<b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/karthikpohane/ONEpurity/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-![object detection](https://github.com/karthikpohane/ONEpurity/assets/117158132/e8db912e-d231-4a66-964b-615146b3665a)
-![Screenshot 2023-08-11 134108](https://github.com/karthikpohane/ONEpurity/assets/117158132/ab27660f-f7b3-40c1-9199-470f1ffde5b7)
+<b>Step 5.</b> Collect images using the Notebook<br>1. Image Collection.ipynb - ensure you change the kernel to the virtual environment as shown below.
+
+![object detection](https://github.com/karthikpohane/ONEpurity/assets/117158132/76fb8b20-0cda-4d74-8116-9a4c077c3428)
+![Screenshot 2023-08-11 134108](https://github.com/karthikpohane/ONEpurity/assets/117158132/b6835907-e9a1-4743-ac31-bcf3e23654cc)
+
+
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 \TFODCourse\Tensorflow\workspace\images\train<br />
 \TFODCourse\Tensorflow\workspace\images\test
 <br/><br/>
-<b>Step 7.</b> Begin training process by opening <a href="https://github.com/karthikpohane/ONEpurity/blob/main/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
+<b>Step 7.</b> Begin training process by opening.<br>2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
-<b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.  
-![traning testing](https://github.com/karthikpohane/ONEpurity/assets/117158132/9386e56d-aa22-46bd-a7bd-ea8ae366ea3d)
+<b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.
+![traning testing](https://github.com/karthikpohane/ONEpurity/assets/117158132/a3de58ca-10ac-4157-875f-756b10d3be33)
+
 If not, resolve installation errors by referring to the <a href="https://github.com/karthikpohane/ONEpurity/blob/main/README.md">Error Guide.md</a> in this folder.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
