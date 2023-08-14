@@ -1,7 +1,7 @@
 ![gitfrontlogo](https://github.com/karthikpohane/ONEpurity/assets/117158132/ce489d55-66a0-42fc-b4fe-9b3f6989dbbb)
 #
 <p>ONEpurity is a Vehicle Pollution Detection System is an innovative solution designed to combat vehicular emissions and environmental pollution through the utilization of cutting-edge technologies, including deep learning, Convolutional Neural Networks (CNNs), TensorFlow, and the SSD MobileNet V2 architecture. This system aims to provide real-time and efficient pollution detection capabilities, merging technology with sustainability for a cleaner environment.</p>
-#Table of Contents
+##Table of Contents
 <table>
   <tr>
     <th>Introduction</th>
