@@ -69,6 +69,9 @@ python -m ipykernel install --user --name=tfodj
 <b>Step 5.</b> Collect images using the Notebook<br>1. Image Collection.ipynb - ensure you change the kernel to the virtual environment as shown below.
 
 ![object detection](https://github.com/karthikpohane/ONEpurity/assets/117158132/76fb8b20-0cda-4d74-8116-9a4c077c3428)
+
+#
+
 ![Screenshot 2023-08-11 134108](https://github.com/karthikpohane/ONEpurity/assets/117158132/b6835907-e9a1-4743-ac31-bcf3e23654cc)
 
 
@@ -125,3 +128,7 @@ Tensorboard will be accessible through your browser and you will be able to see 
     <li>Aditya Gope: https://github.com/mrGope</li>
     <li>Apoorva Vasishtha: https://github.com/apoorva240</li>
 </ul>
+
+## Team and Project Name.
+
+![Logo](https://github.com/karthikpohane/ONEpurity/assets/117158132/96817f3b-b289-47f0-899d-86e7fa302ff6)
