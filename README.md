@@ -40,8 +40,11 @@ ONEpurity's narrative extends beyond detection, transcending into proactive aler
 </ul>
 
 ## Demo.
+<center>
 
 ![one (1)](https://github.com/karthikpohane/ONEpurity/assets/117158132/eab251fd-7b46-48a6-bbed-7212e91f9208)
+
+</center>
 
 ## Installation.
 <b>steps(if you want to clone)</b>
@@ -131,4 +134,8 @@ Tensorboard will be accessible through your browser and you will be able to see 
 
 ## Team and Project Name.
 
-![Logo](https://github.com/karthikpohane/ONEpurity/assets/117158132/96817f3b-b289-47f0-899d-86e7fa302ff6)
+<center>
+    
+![smalllogo](https://github.com/karthikpohane/ONEpurity/assets/117158132/6cbd6ddc-8c11-4068-bbe3-26fb0f4e4b8a)
+
+</center>
