@@ -15,14 +15,21 @@
     <th>Contributing</th>
 </table>
 
-![Screenshot 2023-08-11 134231](https://github.com/karthikpohane/ONEpurity/assets/117158132/75ddf39d-2268-4ed1-9c75-80ed3846ca6a)
+## Introduction.
 
-![Screenshot 2023-08-11 134108](https://github.com/karthikpohane/ONEpurity/assets/117158132/79a4d901-a47c-4577-9138-1608b748aa88)
-![Screenshot 2023-08-11 134108](https://github.com/karthikpohane/ONEpurity/assets/117158132/20e19fc5-8941-48a4-8014-1e819f684516)
-![Screenshot 2023-08-11 134231](https://github.com/karthikpohane/ONEpurity/assets/117158132/6cb5eb51-851a-4daf-b2cf-6a86b0dee96a)
-![one (1)](https://github.com/karthikpohane/ONEpurity/assets/117158132/b12d6ba1-705d-4230-9fdb-92a1bf2f0a82)
+<p>ONEpurity: a compelling synergy of technological innovation and environmental responsibility, poised to revolutionize the battle against vehicular emissions and their ecological repercussions. In the prevailing landscape of mounting pollution concerns, ONEpurity emerges as a trailblazing solution, redefining the approach to pollution control with its seamless integration of advanced technologies like deep learning, Convolutional Neural Networks (CNNs), TensorFlow, and the SSD MobileNet V2 architecture.</p>
+<p>Amidst growing global awareness of air quality and environmental impact, the urgency to swiftly identify and counter vehicle-derived pollutants is paramount. ONEpurity's adeptness lies in its ability to swiftly process visual data from vehicle cameras and external sensors, promptly discerning contaminants like smoke, particulate matter, and poisonous gases. This speed is not only essential for immediate intervention but also crucial for guiding informed policy decisions, fostering sustainable practices.</p>
+<p>Underpinning ONEpurity's prowess is its reliance on deep learning and CNNs, empowering it to unravel complex visual patterns and identify pollutants based on their distinct characteristics. Fueling this innovation is TensorFlow, a versatile machine-learning framework that ensures accuracy and scalability. Complementing this is the choice of the SSD MobileNet V2 architecture, seamlessly blending speed and precision for real-time object detection while optimizing resources.
+ONEpurity's narrative extends beyond detection, transcending into proactive alert mechanisms for stakeholders and a catalyst for informed policies. As a fusion of human ingenuity and ecological mindfulness, ONEpurity illuminates the path toward a greener urban landscape, promising a more sustainable future for future generations. In a landscape where progress hinges on innovation, ONEpurity is a transformative force, igniting a cleaner, purer tomorrow by transcending mere pollution detection to foster a holistic ecological revival.</p>
 
-## Steps
+## Technologies Used.
+<ul>
+    <li>Deep Learning</li>
+    <li>Convolutional Neural Networks (CNNs)</li>
+    <li>TensorFlow</li>
+    <li>SSD MobileNet_V2</li>
+</ul>
+
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/karthikpohane/ONEpurity/
 <br/><br/>
