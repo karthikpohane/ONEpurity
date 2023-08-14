@@ -5,14 +5,14 @@
 ## Table of Contents
 
 <table>
-    <tr><th>Introduction</th></tr>
-    <tr>Technologies Used</tr>
-    <tr>Functionality</tr>
-    <tr>Installation</tr>
-    <tr>Usage</tr>
-    <tr>Workflow</tr>
-    <tr>Environmental Impact</tr>
-    <tr>Contributing</tr>
+    <th>Introduction</th>
+    <th>Technologies Used</th>
+    <th>Functionality</th>
+    <th>Installation</th>
+    <th>Usage</th>
+    <th>Workflow</th>
+    <th>Environmental Impact</th>
+    <th>Contributing</th>
 </table>
 
 ![Screenshot 2023-08-11 134231](https://github.com/karthikpohane/ONEpurity/assets/117158132/75ddf39d-2268-4ed1-9c75-80ed3846ca6a)
